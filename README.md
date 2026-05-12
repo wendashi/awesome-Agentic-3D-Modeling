@@ -8,7 +8,7 @@
 
 ## 🔬 Research & Academic Projects
 
-### LLM/VLM-Driven 3D Generation
+### Agentic 3D Scene Generation
 
 1. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026** | Scene generation, interactive environments
    <a href="https://github.com/NVlabs/sage" title="GitHub Repo">
@@ -40,6 +40,13 @@
 
 7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
+   </a>
+
+### Agentic 3D Object Generation
+
+1. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
+   <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars">
    </a>
 
 
