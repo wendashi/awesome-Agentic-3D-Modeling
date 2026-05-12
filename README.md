@@ -19,8 +19,7 @@
      <img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars">
    </a>
 
-3.  [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments
-   <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
+3.  [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
