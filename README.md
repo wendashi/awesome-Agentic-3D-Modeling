@@ -129,43 +129,6 @@
       <img src="https://img.shields.io/github/stars/rovr-network/ROVR-Open-Dataset.svg?style=social" alt="Stars">
     </a>
 
-
----
-
-## 📊 Statistics & Key Features
-
-### By Category
-- **Research & Academic**: 12 papers (top conferences)
-- **CAD & Engineering**: 4 projects (highest activity)
-- **Game Development**: 2 projects
-- **Core 3D Agents**: 4 projects
-- **Workflows & Tools**: 1 project
-- **Design & Simulation**: 2 projects
-
-### By Star Count
-- 🌟🌟🌟 1,000+ stars: atopile, ai-game-devtools
-- ⭐⭐ 200-999 stars: RhinoMCP, comfyui-workflow-skill, ROVR-Open-Dataset, UnrealGenAISupport
-- ⭐ 50-199 stars: Multiple projects
-- 🆕 Under 50 stars: Several emerging projects
-
-### Key Technologies
-- **LLMs**: GPT-5, Claude, Gemini, Grok, Deepseek R1
-- **Frameworks**: ComfyUI, Rhino MCP, Unreal Engine, Blender
-- **3D Representations**: Gaussian Splatting, NeRF, Mesh, USD
-- **Formats**: IFC, DWG, Revit, GeoJSON, STL
-- **Integration**: n8n, Claude Code, Cursor, Model Context Protocol (MCP)
-
----
-
-## 🚀 Getting Started
-
-1. **For 3D Content Creation**: Start with NVIDIA content-agents
-2. **For CAD Workflows**: Try RhinoMCP or cad2data converters
-3. **For Game Development**: Explore ai-game-devtools
-4. **For LLM-Driven 3D Generation**: Check Idea23D, LayoutGPT, or Holodeck
-5. **For PCB Design**: Use atopile or pcb-designer-ai-agent
-6. **For 3D Reconstruction**: Try DreamGaussian or LRM
-
 ---
 
 ## 💡 Contributing
