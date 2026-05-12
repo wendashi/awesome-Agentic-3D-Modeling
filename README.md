@@ -34,40 +34,6 @@
    <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
-
-### Related Top-Tier 3D Research
-
-6. [MinD-3D: Reconstruct High-quality 3D Objects in Human Brain](https://arxiv.org/abs/2407.08865) - **ECCV 2024** | Brain-to-3D reconstruction, neural representation
-   <a href="https://github.com/yanqinghao/MinD-3D" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/yanqinghao/MinD-3D.svg?style=social" alt="Stars">
-   </a>
-
-7. [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2407.08865) - **NeurIPS 2024** | Multi-view consistency, 2D-3D bridging
-
-8. [GaussianEditor: Text-Guided 3D Scene Editing](https://arxiv.org/abs/2311.14521) - **CVPR 2024** | Text-guided 3D editing, Gaussian splatting
-   <a href="https://github.com/gaussianeditor/gaussianeditor.github.io" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/buaacyw/GaussianEditor.svg?style=social" alt="Stars">
-   </a>
-
-9. [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653) - **ICLR 2024** | Single-image to 3D, efficient generation
-   <a href="https://github.com/dreamgaussian/dreamgaussian" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/dreamgaussian/dreamgaussian.svg?style=social" alt="Stars">
-   </a>
-
-10. [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400) - **ICLR 2024** | Foundation model for 3D reconstruction
-    <a href="https://github.com/LRM-Inference/LRM" title="GitHub Repo">
-      <img src="https://img.shields.io/github/stars/LRM-Inference/LRM.svg?style=social" alt="Stars">
-    </a>
-
-11. [Zip-NeRF: Anti-aliased Grid-based NeRF](https://arxiv.org/abs/2302.06173) - **ICCV 2023** | Efficient NeRF rendering, 24x speedup
-    <a href="https://github.com/google-research/multinerf" title="GitHub Repo">
-      <img src="https://img.shields.io/github/stars/google-research/multinerf.svg?style=social" alt="Stars">
-    </a>
-
-12. [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213) - **NeurIPS 2023** | Text-to-3D, score distillation
-    <a href="https://github.com/alibaba/prolificdreamer" title="GitHub Repo">
-      <img src="https://img.shields.io/github/stars/alibaba/prolificdreamer.svg?style=social" alt="Stars">
-    </a>
     
 ---
 
