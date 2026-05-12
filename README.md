@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
-4. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input [...]
+4. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input 
    <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
@@ -40,7 +40,7 @@
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
-7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | LLM-guided spatial layout, geometric reasonin[...]
+7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | LLM-guided spatial layout, geometric reasonin
    <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
