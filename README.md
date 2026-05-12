@@ -50,7 +50,7 @@
 
 ### Vision & CAD Integration
 
-1. [NVIDIA-Omniverse/content-agents](https://github.com/NVIDIA-Omniverse/content-agents) - AI-powered agents for automating 3D content workflows using VLMs. Analyzes 3D assets and automates workfl[...]
+1. [NVIDIA-Omniverse/content-agents](https://github.com/NVIDIA-Omniverse/content-agents) - AI-powered agents for automating 3D content workflows using VLMs. Analyzes 3D assets and automates workfl
    <a href="https://github.com/NVIDIA-Omniverse/content-agents" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/content-agents.svg?style=social" alt="Stars">
    </a>
@@ -67,12 +67,12 @@
 
 ### CAD & Engineering Design
 
-6. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files (Revi[...]
+6. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files
    <a href="https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN.svg?style=social" alt="Stars">
    </a>
 
-7. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database for AI-d[...]
+7. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database
    <a href="https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR.svg?style=social" alt="Stars">
    </a>
@@ -97,7 +97,7 @@
 
 ### Unreal Engine Integration
 
-11. [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports OpenAI, Deepseek, Claude, a[...]
+11. [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports OpenAI, Deepseek, Claude
     <a href="https://github.com/prajwalshettydev/UnrealGenAISupport" title="GitHub Repo">
       <img src="https://img.shields.io/github/stars/prajwalshettydev/UnrealGenAISupport.svg?style=social" alt="Stars">
     </a>
