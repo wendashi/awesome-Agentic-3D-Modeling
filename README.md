@@ -6,9 +6,9 @@
 
 ---
 
-## 🔬 Research & Academic Projects (Top-Tier Conference Papers)
+## 🔬 Research & Academic Projects
 
-### LLM/VLM-Driven 3D Generation & Understanding
+### LLM/VLM-Driven 3D Generation
 
 1.  [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments
    <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
@@ -36,7 +36,7 @@
    </a>
 
 
-## 🎯 Core 3D Agents & Modeling Frameworks
+## 🎯 3D Agents & Modeling Frameworks
 
 ### Vision & CAD Integration
 
@@ -54,16 +54,6 @@
    <a href="https://github.com/Elianio/Bynce" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Elianio/Bynce.svg?style=social" alt="Stars">
    </a>
-
-### Multi-Modal Agent Systems
-
-4. [yisuanwang/Idea23D](https://github.com/yisuanwang/Idea23D) - **[COLING 2025]** Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs. Supports text, image, and sketch inputs.
-   <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
-   </a>
-
-
-## 🎨 Workflow & Integration Tools
 
 ### CAD & Engineering Design
 
@@ -87,9 +77,6 @@
      <img src="https://img.shields.io/github/stars/assalas/pcb-designer-ai-agent.svg?style=social" alt="Stars">
    </a>
 
----
-
-## 🎮 Game Development & AI Tools
 
 ### Game Development Framework
 
