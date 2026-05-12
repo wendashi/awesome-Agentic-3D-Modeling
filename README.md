@@ -62,16 +62,8 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
----
 
 ## 🎨 Workflow & Integration Tools
-
-### ComfyUI & Generative Workflows
-
-5. [LingyiChen-AI/comfyui-workflow-skill](https://github.com/LingyiChen-AI/comfyui-workflow-skill) - Natural language → ComfyUI workflow JSON converter with 34 built-in templates.
-   <a href="https://github.com/LingyiChen-AI/comfyui-workflow-skill" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/LingyiChen-AI/comfyui-workflow-skill.svg?style=social" alt="Stars">
-   </a>
 
 ### CAD & Engineering Design
 
