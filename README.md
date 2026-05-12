@@ -34,7 +34,7 @@
    <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
----
+
 
 ## 🎯 Core 3D Agents & Modeling Frameworks
 
