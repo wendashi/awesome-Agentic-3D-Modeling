@@ -15,8 +15,7 @@
      <img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars">
    </a>
 
-2. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments
-   <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo">
+2. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars">
    </a>
 
@@ -40,8 +39,7 @@
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
-7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | LLM-guided spatial layout, geometric reasoning
-   <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
+7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
