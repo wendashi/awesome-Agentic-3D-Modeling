@@ -10,14 +10,14 @@
 
 ### LLM/VLM-Driven 3D Generation & Understanding
 
-1. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input integration
-   <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
+1.  [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments
+   <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
-2. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **ICLR 2024** | LLM-guided spatial layout, geometric reasoning
-   <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
+2. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input integration
+   <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
 3. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
@@ -25,16 +25,15 @@
      <img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars">
    </a>
 
-4. [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **CVPR 2024** | Scene generation, interactive environments
-   <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
-   </a>
-
-5. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **ACL 2024** | Language-to-3D scene, spatial reasoning
+4. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
    <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
-    
+
+5.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | LLM-guided spatial layout, geometric reasoning
+   <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
+   </a>
 ---
 
 ## 🎯 Core 3D Agents & Modeling Frameworks
