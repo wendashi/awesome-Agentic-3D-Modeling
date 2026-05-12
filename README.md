@@ -1,6 +1,6 @@
 # awesome-Agentic-3D-Modeling 🤖🔧
 
-> Let's building agentic framework to create 3D models! 👀🤖🔧
+> Let's build agentic framework to create 3D models! 👀🤖🔧
 >
 > Curated list of high-quality open-source projects and resources for AI-powered 3D modeling, design, and content generation using agentic approaches.
 
