@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars">
    </a>
 
-2. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **Text-to-scene generation with simulation-ready output, agentic multi-stage pipeline**
+2. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments
    <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars">
    </a>
