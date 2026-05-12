@@ -10,7 +10,7 @@
 
 ### LLM/VLM-Driven 3D Generation
 
-1. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **Scalable multi-agent system for 3D generation and real-time editing**
+1. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026**
    <a href="https://github.com/NVlabs/sage" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars">
    </a>
