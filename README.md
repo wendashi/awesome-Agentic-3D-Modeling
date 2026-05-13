@@ -49,8 +49,7 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
-3.  [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM 
-   <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
+3.  [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars">
    </a>
 
