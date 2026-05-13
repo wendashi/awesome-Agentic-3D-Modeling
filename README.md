@@ -23,22 +23,17 @@
      <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
-4. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input 
-   <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
-   </a>
-
-5. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
+4. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
    <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars">
    </a>
 
-6. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
+5. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
    <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
-7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
+6.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
@@ -49,6 +44,10 @@
      <img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars">
    </a>
 
+2. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input 
+   <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
+   </a>
 
 ## 🎯 3D Agents & Modeling Frameworks
 
