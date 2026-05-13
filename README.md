@@ -49,6 +49,16 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
+3.  [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM 
+   <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars">
+   </a>
+
+4. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM 
+   <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars">
+   </a>
+   
 ## 🎯 3D Agents & Modeling Frameworks
 
 ### Vision & CAD Integration
