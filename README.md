@@ -68,6 +68,11 @@
      <img src="https://img.shields.io/github/stars/Elianio/Bynce.svg?style=social" alt="Stars">
    </a>
 
+4. [huggingface/meshgen](https://github.com/huggingface/meshgen) - MeshGen - Use AI Agents to control Blender with natural language. Supports multiple LLM backends with optional LLaMA-Mesh and Hyper3D integration.
+   <a href="https://github.com/huggingface/meshgen" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/huggingface/meshgen.svg?style=social" alt="Stars">
+   </a>
+
 ### CAD & Engineering Design
 
 6. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files
