@@ -135,7 +135,7 @@
       <img src="https://img.shields.io/github/stars/rovr-network/ROVR-Open-Dataset.svg?style=social" alt="Stars">
     </a>
 
----
+14. [Moonlake's 3D Agent: Computer Use Capabilities For World Modeling](https://moonlakeai.com/blog/3d-agent) 
 
 ## 💡 Contributing
 
