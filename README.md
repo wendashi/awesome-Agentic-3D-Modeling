@@ -33,7 +33,12 @@
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
-6.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
+6. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning
+<a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/sceneteller/SceneTeller.svg?style=social" alt="Stars">
+   </a>
+
+7.  [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
