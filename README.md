@@ -57,7 +57,18 @@
    <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars">
    </a>
-   
+
+### Agentic 3D Game Generation
+
+1. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://github.com/waynchi/gamedevbench) - **ICML2026** | Multimodal LLM, Game development, Game engine <a href="https://github.com/waynchi/gamedevbench" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/waynchi/gamedevbench.svg?style=social" alt="Stars">
+   </a>
+
+2. [OpenGame: Open Agentic Coding for Games](https://github.com/leigest519/OpenGame) | Multimodal LLM, Game development <a href="https://github.com/leigest519/OpenGame" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/leigest519/OpenGame.svg?style=social" alt="Stars">
+   </a>
+
+
 ## 🎯 3D Agents & Modeling Frameworks
 
 ### Vision & CAD Integration
