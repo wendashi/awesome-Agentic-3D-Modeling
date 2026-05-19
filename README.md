@@ -1,4 +1,4 @@
-# awesome-Agentic-3D-Modeling 🤖🔧
+# awesome Agentic 3D Modeling 🤖🔧
 
 > Let's build agentic framework to create 3D models! 👀🤖🔧
 >
