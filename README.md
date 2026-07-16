@@ -42,6 +42,11 @@
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
+8. [Agentic World Modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) - Agentic world modeling, multimodal agents, and world-modeling resources
+   <a href="https://github.com/matrix-agent/awesome-agentic-world-modeling" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/matrix-agent/awesome-agentic-world-modeling.svg?style=social" alt="Stars">
+   </a>
+
 ### Agentic 3D Object Generation
 
 1. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
