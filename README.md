@@ -68,6 +68,16 @@
      <img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars">
    </a>
 
+5. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects
+   <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars">
+   </a>
+
+6. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets
+   <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars">
+   </a>
+
 ### Agentic (3D) Game Generation/Development
 
 1. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://github.com/waynchi/gamedevbench) - **ICML2026** | Multimodal LLM, Game Development, Game Engine <a href="https://github.com/waynchi/gamedevbench" title="GitHub Repo">
