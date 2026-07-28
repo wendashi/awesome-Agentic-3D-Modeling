@@ -10,70 +10,85 @@
 
 ### Agentic 3D Scene Generation
 
-1. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo">
+1. [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](https://arxiv.org/abs/2607.01766) - **arXiv 2026** | Dynamic 4D scenes, Blender agents, deterministic verification
+
+2. [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](https://horizonrobotics.github.io/EmbodiedGen/) - **arXiv 2026** | Simulation-ready worlds, physics-validated editing, cross-simulator export
+   <a href="https://github.com/HorizonRobotics/EmbodiedGen" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/HorizonRobotics/EmbodiedGen.svg?style=social" alt="Stars">
+   </a>
+
+3. [MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction](https://arxiv.org/abs/2606.14168) - **arXiv 2026** | Multi-agent scene construction and editing, memory, verification
+
+4. [SceneConductor: 3D Scene Generation from Single Image with Multi-Agent Orchestration](https://arxiv.org/abs/2606.08402) - **arXiv 2026** | Multi-agent scene construction, planner-guided refinement
+
+5. [PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback](https://arxiv.org/abs/2606.08688) - **arXiv 2026** | Simulator-in-the-loop agents, force-field generation, trajectory feedback
+
+6. [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://github.com/nepfaff/scenesmith) - **ICML 2026 Spotlight** | Scene generation, interactive environments <a href="https://github.com/nepfaff/scenesmith" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/nepfaff/scenesmith.svg?style=social" alt="Stars">
    </a>
 
-2. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026** | Scene generation, interactive environments
+7. [SAGE: Scalable Agentic for 3D Generation and Editing](https://github.com/NVlabs/sage) - **CVPR 2026** | Scene generation, interactive environments
    <a href="https://github.com/NVlabs/sage" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/NVlabs/sage.svg?style=social" alt="Stars">
    </a>
 
-3. [Agentic World Modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) - Agentic world modeling, multimodal agents, and world-modeling resources
+8. [Agentic World Modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) - Agentic world modeling, multimodal agents, and world-modeling resources
    <a href="https://github.com/matrix-agent/awesome-agentic-world-modeling" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/matrix-agent/awesome-agentic-world-modeling.svg?style=social" alt="Stars">
    </a>
 
-4. [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
+9. [Scene-Weaver: Multi-Scene Choreography for Interactable Virtual Worlds](https://github.com/Scene-Weaver/SceneWeaver) - **NeurIPS 2025** | Scene generation, interactive environments <a href="https://github.com/Scene-Weaver/SceneWeaver" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
-5. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
+10. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
    <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars">
    </a>
 
-6. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning
+11. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning
    <a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/sceneteller/SceneTeller.svg?style=social" alt="Stars">
    </a>
 
-7. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
+12. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
    <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
-8. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
+13. [LayoutGPT: Analytical Layout Generation by Coupling LLMs with Geometric Optimizers](https://github.com/weixi-feng/LayoutGPT) - **NeurIPS 2023** | Layout reasoning <a href="https://github.com/weixi-feng/LayoutGPT" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
 ### Agentic 3D Object Generation
 
-1. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
+1. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
+
+2. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
    <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars">
    </a>
 
-2. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets
+3. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets
    <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars">
    </a>
 
-3. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects
+4. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects
    <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars">
    </a>
 
-4. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
+5. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars">
    </a>
 
-5. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM
+6. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM
    <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars">
    </a>
 
-6. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input
+7. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input
    <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
@@ -195,4 +210,4 @@ This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 ---
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-07-28*
