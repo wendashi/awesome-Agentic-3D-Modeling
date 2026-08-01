@@ -45,13 +45,11 @@
      <img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars">
    </a>
 
-11. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning
-   <a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo">
+11. [SceneTeller: Language-to-3D Scene Generation](https://github.com/sceneteller/SceneTeller) - **ECCV 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/sceneteller/SceneTeller" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/sceneteller/SceneTeller.svg?style=social" alt="Stars">
    </a>
 
-12. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning
-   <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
+12. [Holodeck: Language-Driven Scene Construction in Virtual Environments](https://github.com/allenai/Holodeck) - **CVPR 2024** | Language-to-3D scene, spatial reasoning <a href="https://github.com/allenai/Holodeck" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social" alt="Stars">
    </a>
 
