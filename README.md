@@ -41,8 +41,7 @@
      <img src="https://img.shields.io/github/stars/Scene-Weaver/SceneWeaver.svg?style=social" alt="Stars">
    </a>
 
-10. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration
-   <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo">
+10. [IDesign: Product Intelligent Design System Powered by Generative AI and Designers](https://github.com/atcelen/IDesign/) - **ECCV 2024** | Generative design, human-AI collaboration <a href="https://github.com/atcelen/IDesign/" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/atcelen/IDesign.svg?style=social" alt="Stars">
    </a>
 
