@@ -125,24 +125,34 @@
      <img src="https://img.shields.io/github/stars/huggingface/meshgen.svg?style=social" alt="Stars">
    </a>
 
+5. [meshy-dev/meshy-3d-agent](https://github.com/meshy-dev/meshy-3d-agent) - Agent skills for Meshy workflows including text/image-to-3D, retexturing, remeshing, rigging, animation, and printability preparation.
+   <a href="https://github.com/meshy-dev/meshy-3d-agent" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/meshy-dev/meshy-3d-agent.svg?style=social" alt="Stars">
+   </a>
+
 ### CAD & Engineering Design
 
-6. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files
+1. [Shpigford/nurb](https://github.com/Shpigford/nurb) - Agentic CAD for 3D printing using parametric B-rep solids, exact-geometry printability checks, slicer estimates, stress analysis, and print-ready 3MF export.
+   <a href="https://github.com/Shpigford/nurb" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/Shpigford/nurb.svg?style=social" alt="Stars">
+   </a>
+
+2. [datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) - AI Agent-enabled workflow for automated conversion of CAD files
    <a href="https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN.svg?style=social" alt="Stars">
    </a>
 
-7. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database
+3. [datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) - Open multilingual construction cost database
    <a href="https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR.svg?style=social" alt="Stars">
    </a>
 
-8. [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse, validation, version control and collaboration in hardware.
+4. [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Get software-like design reuse, validation, version control and collaboration in hardware.
    <a href="https://github.com/atopile/atopile" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/atopile/atopile.svg?style=social" alt="Stars">
    </a>
 
-9. [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent) - Intelligent AI-powered PCB design automation tool using ML for component placement and routing optimization.
+5. [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent) - Intelligent AI-powered PCB design automation tool using ML for component placement and routing optimization.
    <a href="https://github.com/assalas/pcb-designer-ai-agent" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/assalas/pcb-designer-ai-agent.svg?style=social" alt="Stars">
    </a>
@@ -165,6 +175,13 @@
 ---
 
 ## 🛠️ Design & Simulation Tools
+
+### 3D Agent Environments & Simulation Platforms
+
+1. [google-deepmind/lab](https://github.com/google-deepmind/lab) - DeepMind Lab, a customizable Quake III-based 3D environment with navigation and puzzle tasks for training and evaluating learning agents.
+   <a href="https://github.com/google-deepmind/lab" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/google-deepmind/lab.svg?style=social" alt="Stars">
+   </a>
 
 ### Autonomous Vehicle & Robotics Simulation
 
@@ -207,4 +224,4 @@ This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 ---
 
-*Last updated: 2026-07-28*
+*Last updated: 2026-08-19*
