@@ -90,6 +90,18 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
+### Executable World Models & Physical Reasoning
+
+1. [Code World Model: Coding Agent as World Brain](https://github.com/buaacyw/code-world-model) - **arXiv 2026** | Coding agent, executable persistent world state, spatiotemporal proxy compilation, video-based world realization
+   <a href="https://github.com/buaacyw/code-world-model" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/buaacyw/code-world-model.svg?style=social" alt="Stars">
+   </a>
+
+2. [Code-as-World: Agentic Discovery of Executable World Representations for Physical Reasoning](https://github.com/mirros-lab/code-as-world) - **Technical Report 2026** | Agentic simulation and verification, executable physical representations, counterfactual rollouts
+   <a href="https://github.com/mirros-lab/code-as-world" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/mirros-lab/code-as-world.svg?style=social" alt="Stars">
+   </a>
+
 ### Agentic (3D) Game Generation/Development
 
 1. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://github.com/waynchi/gamedevbench) - **ICML2026** | Multimodal LLM, Game Development, Game Engine <a href="https://github.com/waynchi/gamedevbench" title="GitHub Repo">
@@ -224,4 +236,4 @@ This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 ---
 
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-28*
