@@ -59,33 +59,38 @@
 
 ### Agentic 3D Object Generation
 
-1. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
+1. [ViSculpt: Visual-Centric Agentic Geometry Editing](https://arxiv.org/abs/2608.24169) - **arXiv 2026** | Multi-agent Blender GUI control, localized mesh editing, visual feedback
+   <a href="https://github.com/sig-pku/ViSculpt" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/sig-pku/ViSculpt.svg?style=social" alt="Stars">
+   </a>
 
-2. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
+2. [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](https://arxiv.org/abs/2607.03731) - **arXiv 2026** | Conversational co-design, image-to-3D, immersive deployment
+
+3. [PhysForge: Agentic Physics-Based 3D Object Generation and Simulation](https://github.com/HKU-MMLab/PhysForge) - **ICML 2026** | Physics-driven generation, agentic workflow
    <a href="https://github.com/HKU-MMLab/PhysForge" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/HKU-MMLab/PhysForge.svg?style=social" alt="Stars">
    </a>
 
-3. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets
+4. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything) - **CVPR 2026** | Image-to-3D, physical modeling, simulation-ready assets
    <a href="https://github.com/ziangcao0312/PhysX-Anything" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-Anything.svg?style=social" alt="Stars">
    </a>
 
-4. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects
+5. [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation](https://github.com/physx-omni/PhysX-Omni) | Physical 3D generation, rigid/deformable/articulated objects
    <a href="https://github.com/physx-omni/PhysX-Omni" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/physx-omni/PhysX-Omni.svg?style=social" alt="Stars">
    </a>
 
-5. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
+6. [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://github.com/JAMESYJL/ShapeLLM-Omni) - **NeurIPS 2025 Spotlight** | Multimodal LLM <a href="https://github.com/JAMESYJL/ShapeLLM-Omni" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg?style=social" alt="Stars">
    </a>
 
-6. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM
+7. [MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh](https://github.com/Fangkang515/MeshLLM) - **ICCV2025** | Multimodal LLM
    <a href="https://github.com/Fangkang515/MeshLLM" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/Fangkang515/MeshLLM.svg?style=social" alt="Stars">
    </a>
 
-7. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input
+8. [Idea23D: Collaborative LMM Agents for 3D Model Generation from Interleaved Multimodal Inputs](https://github.com/yisuanwang/Idea23D) - **COLING 2025** | Collaborative agents, multimodal input
    <a href="https://github.com/yisuanwang/Idea23D" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
