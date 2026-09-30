@@ -113,6 +113,9 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
+### Agentic 3D Material / Shader Generation
+1. [ShaderAgent: Self-Evolving Agentic Procedural Material Generation](https://github.com/VAST-AI-Research/ShaderAgent) - **SIGGRAPH Aisa 2026** | Reference-image-to-editable Blender procedural materials, shader DSL, reason-act-critic optimization
+
 ### Executable World Models & Physical Reasoning
 
 1. [Code World Model: Coding Agent as World Brain](https://github.com/buaacyw/code-world-model) - **arXiv 2026** | Coding agent, executable persistent world state, spatiotemporal proxy compilation, video-based world realization
