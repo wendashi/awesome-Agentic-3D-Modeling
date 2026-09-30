@@ -116,6 +116,8 @@
 ### Agentic 3D Material / Shader Generation
 1. [ShaderAgent: Self-Evolving Agentic Procedural Material Generation](https://github.com/VAST-AI-Research/ShaderAgent) - **SIGGRAPH Aisa 2026** | Reference-image-to-editable Blender procedural materials, shader DSL, reason-act-critic optimization
 
+2. [VLMaterial: Procedural Material Generation with Large Vision-Language Models](https://github.com/mit-gfx/VLMaterial) - **ICLR 2025 Spotlight** | Open-source procedural material dataset and propose to perform program-level augmentation by prompting another pre-trained LLM
+
 ### Executable World Models & Physical Reasoning
 
 1. [Code World Model: Coding Agent as World Brain](https://github.com/buaacyw/code-world-model) - **arXiv 2026** | Coding agent, executable persistent world state, spatiotemporal proxy compilation, video-based world realization
