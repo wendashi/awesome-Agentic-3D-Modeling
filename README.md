@@ -6,8 +6,29 @@
 
 ---
 
+- [Research & Academic Projects](#research-academic-projects)
+- [Agentic 3D Scene Generation](#agentic-3d-scene-generation)
+- [Agentic 3D Object Generation](#agentic-3d-object-generation)
+- [Agentic 3D Material / Shader Generation](#agentic-3d-material-shader-generation)
+- [Agentic 3D Simulation](#agentic-3d-simulation)
+- [Executable World Models & Physical Reasoning](#executable-world-models-physical-reasoning)
+- [Agentic (3D) Game Generation/Development](#agentic-3d-game-generation-development)
+- [Agentic 3D Benchmarks](#agentic-3d-benchmarks)
+- [3D Agents & Modeling Frameworks](#agents-modeling-frameworks)
+- [Vision & CAD Integration](#vision-cad-integration)
+- [CAD & Engineering Design](#cad-engineering-design)
+- [Game Development Framework](#game-development-framework)
+- [Unreal Engine Integration](#unreal-engine-integration)
+- [Design & Simulation Tools](#design-simulation-tools)
+- [3D Agent Environments & Simulation Platforms](#agent-environments-simulation-platforms)
+- [Autonomous Vehicle & Robotics Simulation](#autonomous-vehicle-robotics-simulation)
+- [Contributing](#contributing)
+- [License](#license)
+
+<a id="research-academic-projects"></a>
 ## 🔬 Research & Academic Projects
 
+<a id="agentic-3d-scene-generation"></a>
 ### Agentic 3D Scene Generation
 
 1. [DesignAgent3D: Interactive 3D Scene Editing via Designer-like Multimodal Reasoning](https://arxiv.org/abs/2608.21438) - **arXiv 2026** | Plan-Perceive-Act agent, interactive intent clarification, persistent multi-view editing
@@ -70,6 +91,7 @@
      <img src="https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social" alt="Stars">
    </a>
 
+<a id="agentic-3d-object-generation"></a>
 ### Agentic 3D Object Generation
 
 1. [DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation](https://arxiv.org/abs/2609.23103) - **arXiv 2026** | Single-image-to-simulation-ready deformable assets, part-wise geometry and material inference, simulator-based diagnostics and repair
@@ -118,11 +140,20 @@
      <img src="https://img.shields.io/github/stars/yisuanwang/Idea23D.svg?style=social" alt="Stars">
    </a>
 
+<a id="agentic-3d-material-shader-generation"></a>
 ### Agentic 3D Material / Shader Generation
-1. [ShaderAgent: Self-Evolving Agentic Procedural Material Generation](https://github.com/VAST-AI-Research/ShaderAgent) - **SIGGRAPH Aisa 2026** | Reference-image-to-editable Blender procedural materials, shader DSL, reason-act-critic optimization
+1. [ShaderAgent: Self-Evolving Agentic Procedural Material Generation](https://github.com/VAST-AI-Research/ShaderAgent) - **SIGGRAPH Asia 2026** | Reference-image-to-editable Blender procedural materials, shader DSL, reason-act-critic optimization
 
 2. [VLMaterial: Procedural Material Generation with Large Vision-Language Models](https://github.com/mit-gfx/VLMaterial) - **ICLR 2025 Spotlight** | Open-source procedural material dataset and propose to perform program-level augmentation by prompting another pre-trained LLM
 
+<a id="agentic-3d-simulation"></a>
+### Agentic 3D Simulation
+1. [Eureka: Human-Level Reward Design via Coding Large Language Models](https://eureka-research.github.io/) - **arXiv 2023** | LLM-generated reward code, reinforcement learning, robot simulation and policy optimization
+   <a href="https://github.com/eureka-research/Eureka" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/eureka-research/Eureka.svg?style=social" alt="Stars">
+   </a>
+
+<a id="executable-world-models-physical-reasoning"></a>
 ### Executable World Models & Physical Reasoning
 
 1. [Code World Model: Coding Agent as World Brain](https://github.com/buaacyw/code-world-model) - **arXiv 2026** | Coding agent, executable persistent world state, spatiotemporal proxy compilation, video-based world realization
@@ -135,6 +166,7 @@
      <img src="https://img.shields.io/github/stars/mirros-lab/code-as-world.svg?style=social" alt="Stars">
    </a>
 
+<a id="agentic-3d-game-generation-development"></a>
 ### Agentic (3D) Game Generation/Development
 
 1. [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://github.com/waynchi/gamedevbench) - **ICML2026** | Multimodal LLM, Game Development, Game Engine <a href="https://github.com/waynchi/gamedevbench" title="GitHub Repo">
@@ -145,6 +177,7 @@
      <img src="https://img.shields.io/github/stars/leigest519/OpenGame.svg?style=social" alt="Stars">
    </a>
 
+<a id="agentic-3d-benchmarks"></a>
 ### Agentic 3D Benchmarks
 
 1. [3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code](https://github.com/gaoypeng/3dcodebench) - **arXiv 2026** | VLM coding agents, Blender execution feedback, procedural 3D evaluation
@@ -153,8 +186,10 @@
    </a>
 
 
+<a id="agents-modeling-frameworks"></a>
 ## 🎯 3D Agents & Modeling Frameworks
 
+<a id="vision-cad-integration"></a>
 ### Vision & CAD Integration
 
 1. [NVIDIA-Omniverse/content-agents](https://github.com/NVIDIA-Omniverse/content-agents) - AI-powered agents for automating 3D content workflows using VLMs. Analyzes 3D assets and automates workfl
@@ -182,6 +217,7 @@
      <img src="https://img.shields.io/github/stars/meshy-dev/meshy-3d-agent.svg?style=social" alt="Stars">
    </a>
 
+<a id="cad-engineering-design"></a>
 ### CAD & Engineering Design
 
 1. [AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition](https://arxiv.org/abs/2607.02448) - **arXiv 2026** | Multi-agent DFAM, B-Rep feature reasoning, VLM geometry verification
@@ -214,6 +250,7 @@
    </a>
 
 
+<a id="game-development-framework"></a>
 ### Game Development Framework
 
 10. [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub - Ultimate resource hub for AI-powered game development tools and frameworks.
@@ -221,6 +258,7 @@
       <img src="https://img.shields.io/github/stars/Yuan-ManX/ai-game-devtools.svg?style=social" alt="Stars">
     </a>
 
+<a id="unreal-engine-integration"></a>
 ### Unreal Engine Integration
 
 11. [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports OpenAI, Deepseek, Claude
@@ -230,8 +268,10 @@
 
 ---
 
+<a id="design-simulation-tools"></a>
 ## 🛠️ Design & Simulation Tools
 
+<a id="agent-environments-simulation-platforms"></a>
 ### 3D Agent Environments & Simulation Platforms
 
 1. [google-deepmind/lab](https://github.com/google-deepmind/lab) - DeepMind Lab, a customizable Quake III-based 3D environment with navigation and puzzle tasks for training and evaluating learning agents.
@@ -239,6 +279,7 @@
      <img src="https://img.shields.io/github/stars/google-deepmind/lab.svg?style=social" alt="Stars">
    </a>
 
+<a id="autonomous-vehicle-robotics-simulation"></a>
 ### Autonomous Vehicle & Robotics Simulation
 
 12. [truevisionai/designer](https://github.com/truevisionai/designer) - Truevision Designer - 3D tool to design roads, intersections and environments for testing autonomous vehicles.
@@ -253,6 +294,7 @@
 
 14. [Moonlake's 3D Agent: Computer Use Capabilities For World Modeling](https://moonlakeai.com/blog/3d-agent) 
 
+<a id="contributing"></a>
 ## 💡 Contributing
 
 Have found a new awesome agentic 3D modeling project? Feel free to submit a PR!
@@ -274,6 +316,7 @@ N. [Project Name](link) - Brief description
 
 ---
 
+<a id="license"></a>
 ## 📝 License
 
 This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
