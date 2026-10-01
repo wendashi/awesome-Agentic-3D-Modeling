@@ -185,6 +185,15 @@
      <img src="https://img.shields.io/github/stars/gaoypeng/3dcodebench.svg?style=social" alt="Stars">
    </a>
 
+2. [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://github.com/BenchCAD/BenchCAD-main) - **2026** | Execution-grounded programmatic CAD benchmark, 17,900 CadQuery programs, vision-to-code, code editing, and QA tasks
+   <a href="https://github.com/BenchCAD/BenchCAD-main" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/BenchCAD/BenchCAD-main.svg?style=social" alt="Stars">
+   </a>
+
+3. [BenchCAD 2.0](https://github.com/BenchCAD-org/benchcad-2) - **2026** | Community-grounded parametric CAD benchmark data pipeline, auditable part families, multi-turn refinement, and successor repository to BenchCAD
+   <a href="https://github.com/BenchCAD-org/benchcad-2" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/BenchCAD-org/benchcad-2.svg?style=social" alt="Stars">
+   </a>
 
 <a id="agents-modeling-frameworks"></a>
 ## 🎯 3D Agents & Modeling Frameworks
