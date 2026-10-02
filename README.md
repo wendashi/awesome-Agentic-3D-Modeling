@@ -330,6 +330,3 @@ N. [Project Name](link) - Brief description
 
 This list is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
----
-
-*Last updated: 2026-08-28*
