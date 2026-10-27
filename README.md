@@ -195,10 +195,12 @@
 
 10. [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Your AI Game Dev Hub - Ultimate resource hub for AI-powered game development tools and frameworks. <a href="https://github.com/Yuan-ManX/ai-game-devtools" title="GitHub Repo"><img src="https://img.shields.io/github/stars/Yuan-ManX/ai-game-devtools.svg?style=social" alt="Stars"></a>
 
+11. [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for 30+ AI game-dev tools (each row cites a source link and verification date).
+
 <a id="unreal-engine-integration"></a>
 ### Unreal Engine Integration
 
-11. [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports OpenAI, Deepseek, Claude <a href="https://github.com/prajwalshettydev/UnrealGenAISupport" title="GitHub Repo"><img src="https://img.shields.io/github/stars/prajwalshettydev/UnrealGenAISupport.svg?style=social" alt="Stars"></a>
+12. [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports OpenAI, Deepseek, Claude <a href="https://github.com/prajwalshettydev/UnrealGenAISupport" title="GitHub Repo"><img src="https://img.shields.io/github/stars/prajwalshettydev/UnrealGenAISupport.svg?style=social" alt="Stars"></a>
 
 ---
 
