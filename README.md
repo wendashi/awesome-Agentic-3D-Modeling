@@ -233,6 +233,8 @@
 
 11. [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent) - Intelligent AI-powered PCB design automation tool using ML for component placement and routing optimization. <a href="https://github.com/assalas/pcb-designer-ai-agent" title="GitHub Repo"><img src="https://img.shields.io/github/stars/assalas/pcb-designer-ai-agent.svg?style=social" alt="Stars"></a>
 
+12. [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Free, source-available (PolyForm Shield) MCP server and agent skill for headless Blender (`bpy`) that generates parametric mechanical parts such as gears, enclosures, drone frames and exploded assemblies from plain-English specs or JSON, with glTF/STL export and a Three.js viewer. <a href="https://github.com/jangtrinh/design-os-3d-blender" title="GitHub Repo"><img src="https://img.shields.io/github/stars/jangtrinh/design-os-3d-blender.svg?style=social" alt="Stars"></a>
+
 
 <a id="game-development-framework"></a>
 ### Game Development Framework
